@@ -1,7 +1,7 @@
-# Using Swagger in Libertyy 
+# Using Swagger in Liberty
 
-This sample contains a few ways of how to use Swagger documentation within Liberty. Application contains
-two individual servlets. JAX-RS servlet is used to handle requests to a Tasks API, which allows user to create, view and delete Task objects. Second servlet is an extension of a HTTPServlet and is used to resond to requests for a Contacts API.
+This sample contains a few ways of how to use Swagger documentation within Liberty. This application contains
+two individual servlets:  the JAX-RS servlet is used to handle requests to a Tasks API, which allows user to create, view and delete Task objects, while the second servlet is an extension of a HTTPServlet and is used to resond to requests for a Contacts API.
 Contacts API lets you create, view and update Contact objects.
 
 [TasksResource](/swagger-sample-application/src/main/java/net/wasdev/swaggersample/jaxrs/TasksResource.java) is a
@@ -22,7 +22,7 @@ to interact with the sample. Default credentials are login: user, password: demo
 
 ## Notice
 
-© Copyright IBM Corporation 2016.
+Â© Copyright IBM Corporation 2016.
 
 ## License
 
