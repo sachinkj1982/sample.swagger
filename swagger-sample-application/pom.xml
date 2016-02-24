@@ -54,7 +54,7 @@
 	</dependencies>
 
 	<properties>
-		<!-- Update this to match the port number in the websocketSample server.xml 
+		<!-- Update this to match the port number in the swaggerSample server.xml 
 			This is needed to run the tests -->
 		<libertyTestPort>9081</libertyTestPort>
 		<skipFVT>true</skipFVT>
