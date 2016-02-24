@@ -8,7 +8,7 @@ Contacts API lets you create, view and update Contact objects.
 JAX-RS resouce classs that uses both JAX-RS and Swagger annotations to document the API.
 
 Documentation for HTTPServlet based API [ContactsServlet](/swagger-sample-application/src/main/java/net/wasdev/swaggersample/servlet/ContactsServlet.java)
-is provided using Swagger stub file [swagger.json](/swagger-sample-application/src/webapp/META-INF/stub/swagger.json)
+is provided using Swagger stub file [swagger.json](/swagger-sample-application/src/main/webapp/META-INF/stub/swagger.json)
 
 ## Getting Started
 
