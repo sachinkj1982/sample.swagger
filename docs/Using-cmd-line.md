@@ -48,7 +48,7 @@ Use the following to start the server and run the application:
 
 ```bash
 $ export WLP_USER_DIR=/path/to/sample.swagger/swagger-sample-wlpcfg
-$ /path/to/wlp/bin/server run sampleSample
+$ /path/to/wlp/bin/server run swaggerSample
 ```
 
 * `run` runs the server in the foreground.
