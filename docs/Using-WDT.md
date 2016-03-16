@@ -22,7 +22,7 @@ If the sample git repository hasn't been cloned yet, WDT has git tools integrate
 2.  Copy Git repo url by finding the textbox under "HTTPS clone URL" at the top of this page, and select *Copy to clipboard*
 3.  In the Git repositories view, select the hyperlink `Clone a Git repository`
 4.  The git repo url should already be filled in.  Select *Next -> Next -> Finish*
-5.  The "sample.async.jaxrs [master]" repo should appear in the view
+5.  The "sample.swagger [master]" repo should appear in the view
 
 ### Building the sample in Eclipse
 :pushpin: [Switch to cmd line example](/docs/Using-cmd-line.md/#building-the-sample)
@@ -34,7 +34,7 @@ This sample can be built using [Maven](#building-with-maven).
 
 ###### Import Maven projects into WDT
 
-1.  In the Git Repository view, expand the jaxrs repo to see the "Working Directory" folder
+1.  In the Git Repository view, expand the sample repo to see the "Working Directory" folder
 2.  Right-click on this folder, and select *Copy path to Clipboard*
 3.  Select menu *File -> Import -> Maven -> Existing Maven Projects*
 4.  In the Root Directory textbox, Paste in the repository directory.
