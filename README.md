@@ -1,4 +1,4 @@
-# Using Swagger in Liberty
+# Using Swagger in Liberty [![Build Status](https://travis-ci.org/WASdev/sample.swagger.svg?branch=master)](https://travis-ci.org/WASdev/sample.swagger)
 
 This sample contains a few ways of how to use Swagger documentation within Liberty. This application contains
 two individual servlets:  the JAX-RS servlet is used to handle requests to a Tasks API, which allows user to create, view and delete Task objects, while the second servlet is an extension of a HTTPServlet and is used to resond to requests for a Contacts API.
