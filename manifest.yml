@@ -1,0 +1,9 @@
+applications:
+- instances: 1
+  domain: mybluemix.net
+  name: sample-api-v1
+  host: sample-api-v1
+  disk_quota: 1024M
+  path: defaultServer
+  buildpack: liberty-for-java
+  memory: 512M
